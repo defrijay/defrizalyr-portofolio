@@ -11,12 +11,14 @@ import MyHero from './sections/MyHero.jsx';
 const App = () => {
   return (
     <main className="max-w-7xl mx-auto relative">
-      <Navbar />
-      <MyHero/>
+      <div className='bg-hero-pattern bg-cover bg-no-repeat bg-center'>
+        <Navbar />
+        <MyHero />
+      </div>
       {/* <Hero /> */}
       <About />
       <Projects />
-      <Clients />
+      {/* <Clients /> */}
       <WorkExperience />
       <Contact />
       <Footer />

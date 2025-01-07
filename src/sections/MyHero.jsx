@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { styles } from "../styles";
-import { ComputersCanvas, BallCanvas } from "../components/canvas";
+import { ComputersCanvas} from "../components/canvas";
 import { SectionWrapper } from "../hoc";
 import { technologies } from "../constants";
 
@@ -18,7 +18,7 @@ const MyHero = () => {
 
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi, I'm <span className='text-[#915EFF]'>Defrizal Yahdiyan R.</span>
+            Hi, I'm <span className='text-[#915EFF]'>Defrizal Yahdiyan Risyad</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I Developing Code for Website or Mobile<br className='sm:block hidden' />

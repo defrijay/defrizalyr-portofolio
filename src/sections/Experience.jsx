@@ -48,7 +48,7 @@ const WorkExperience = () => {
                   <div className="sm:p-5 px-2.5 py-5">
                     <p className="font-bold text-white-800">{item.name}</p>
                     <p className="text-sm mb-5">
-                      {item.pos} -- <span>{item.duration}</span>
+                      {item.pos} || <span>{item.duration}</span>
                     </p>
                     <ul className="mt-5 list-disc ml-5 space-y-2">
                       {item.points.map((point, index) => (

@@ -14,6 +14,7 @@ import mysql from "../assets/tech/mysql.png";
 import expressJS from "../assets/tech/expressJS.png";
 import laravel from "../assets/tech/laravel.png";
 import codeigniter from "../assets/tech/codeigniter.webp";
+import flutter from "../assets/tech/flutter.webp";
 
 export const navLinks = [
   {
@@ -438,6 +439,10 @@ export const technologies = [
   {
     name: "Codeigniter",
     icon: codeigniter,
+  },
+  {
+    name: "Flutter",
+    icon: flutter,
   },
   {
     name: "git",

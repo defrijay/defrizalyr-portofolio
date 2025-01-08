@@ -1,11 +1,9 @@
 import { motion } from "framer-motion";
+
 import { styles } from "../styles";
-import { ComputersCanvas} from "../components/canvas";
-import { SectionWrapper } from "../hoc";
-import { technologies } from "../constants";
+import { ComputersCanvas } from "../components/canvas";
 
-
-const MyHero = () => {
+const Hero = () => {
   return (
     <section className={`relative w-full h-screen mx-auto`}>
       <div
@@ -21,7 +19,7 @@ const MyHero = () => {
             Hi, I'm <span className='text-[#915EFF]'>Defrizal Yahdiyan Risyad</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I Developing Code for Website or Mobile<br className='sm:block hidden' />
+            I develop code for website and mobile
           </p>
         </div>
       </div>
@@ -49,4 +47,4 @@ const MyHero = () => {
   );
 };
 
-export default MyHero;
+export default Hero;

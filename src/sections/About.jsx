@@ -52,7 +52,7 @@ const About = () => {
           </div>
         </div>
 
-        <div className="col-span-1 xl:row-span-3">
+        <div className="col-span-1 xl:row-span-3" id='cv'>
           <div className="grid-container justify-center">
             <div className="grid grid-cols-1 rounded-3xl w-full h-fit justify-center items-center gap-2">
               <a href="" target='_blank' class="text-white bg-[#24292F] hover:bg-[#24292F]/90 focus:ring-4 focus:outline-none focus:ring-[#24292F]/50 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:focus:ring-gray-500 dark:hover:bg-[#050708]/30 me-2 mb-2">
@@ -95,7 +95,7 @@ const About = () => {
           </div>
         </div>
 
-        <div className="xl:col-span-1 xl:row-span-3">
+        <div className="xl:col-span-1 xl:row-span-3" id='contact'>
           <div className="grid-container justify-center">
             <div className="grid grid-cols-1 rounded-3xl w-full h-fit justify-center items-center gap-2">
               <a href="mailto:defrijay@gmail.com" target='blank' class="text-white justify-center bg-[#24292F] hover:bg-[#24292F]/90 focus:ring-4 focus:outline-none focus:ring-[#24292F]/50 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:focus:ring-gray-500 dark:hover:bg-[#050708]/30 me-2 mb-2">

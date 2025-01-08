@@ -7,10 +7,13 @@ import javascript from "../assets/tech/javascript.png";
 import mongodb from "../assets/tech/mongodb.png";
 import nodejs from "../assets/tech/nodejs.png";
 import reactjs from "../assets/tech/reactjs.png";
-import redux from "../assets/tech/redux.png";
 import tailwind from "../assets/tech/tailwind.png";
 import typescript from "../assets/tech/typescript.png";
-import threejs from "../assets/tech/threejs.svg";
+import php from "../assets/tech/php.png";
+import mysql from "../assets/tech/mysql.png";
+import expressJS from "../assets/tech/expressJS.png";
+import laravel from "../assets/tech/laravel.png";
+import codeigniter from "../assets/tech/codeigniter.webp";
 
 export const navLinks = [
   {
@@ -413,12 +416,12 @@ export const technologies = [
     icon: typescript,
   },
   {
-    name: "React JS",
-    icon: reactjs,
+    name: "PHP",
+    icon: php,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "React JS",
+    icon: reactjs,
   },
   {
     name: "Tailwind CSS",
@@ -429,24 +432,24 @@ export const technologies = [
     icon: nodejs,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "Laravel",
+    icon: laravel,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "Codeigniter",
+    icon: codeigniter,
   },
   {
     name: "git",
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "MySQL",
+    icon: mysql,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "MongoDB",
+    icon: mongodb,
   },
 ];
 

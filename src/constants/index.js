@@ -86,7 +86,7 @@ export const myProjects = [
       'Built as a unique Software-as-a-Service app with ReactJS, Tailwind CSS, Laravel, and MySQL.',
     href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
     github: 'https://github.com/defrijay/project-management-app',
-    texture: '/textures/project/project1.mp4',
+    texture: '/assets/portofolio/project-management-app/project-management-app.mp4',
     logo: '/assets/project-logo1.png',
     logoStyle: {
       backgroundColor: '#2A1816',
@@ -123,7 +123,7 @@ export const myProjects = [
     subdesc:
       'Build with Bootsrtrap, Codeigniter, and MySQL',
     href: 'https://kemakom.org',
-    texture: '/textures/project/project2.mp4',
+    texture: '/assets/portofolio/kemakom/kemakom.mp4',
     logo: '/assets/project-logo2.png',
     logoStyle: {
       backgroundColor: '#13202F',
@@ -155,7 +155,7 @@ export const myProjects = [
     subdesc:
       'Build with ReactJS, TailwindCSS, Laravel, and MySQL',
     href: 'https://dinamik.kemakom.org',
-    texture: '/textures/project/project3.mp4',
+    texture: '/assets/portofolio/dinamik-19/dinamik-19.mp4',
     logo: '/assets/project-logo3.png',
     logoStyle: {
       backgroundColor: '#60f5a1',
@@ -195,7 +195,7 @@ export const myProjects = [
       'Build with Typescript, NextJS, and TailwindCSS.',
     href: '',
     github:'https://github.com/defrijay/Campside',
-    texture: '/textures/project/project4.mp4',
+    texture: '/assets/portofolio/campside/campside.mp4',
     logo: '/assets/project-logo4.png',
     logoStyle: {
       backgroundColor: '#0E1F38',
@@ -228,7 +228,7 @@ export const myProjects = [
       'Bulid with VueJS, TailwindCSS, and ExpressJS',
     href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
     github: 'https://github.com/defrijay/momo-store',
-    texture: '/textures/project/project5.mp4',
+    texture: '/assets/portofolio/dinamik-19/dinamik-19.mp4',
     logo: '/assets/project-logo5.png',
     logoStyle: {
       backgroundColor: '#1C1A43',
@@ -266,7 +266,7 @@ export const myProjects = [
       'Build with Bootstrap and PHP',
     href: '',
     github: 'https://github.com/defrijay/bara-university',
-    texture: '/textures/project/project5.mp4',
+    texture: '/assets/portofolio/bara-university/bara-university.mp4',
     logo: '/assets/project-logo5.png',
     logoStyle: {
       backgroundColor: '#1C1A43',
@@ -299,7 +299,7 @@ export const myProjects = [
       'Built with ReactJS and TailwindCSS',
     href: '',
     github: 'https://github.com/defrijay/majestic-restaurant',
-    texture: '/textures/project/project5.mp4',
+    texture: '/assets/portofolio/majestic-restaurant/majestic-restaurant.mp4',
     logo: '/assets/project-logo5.png',
     logoStyle: {
       backgroundColor: '#1C1A43',
@@ -332,7 +332,7 @@ export const myProjects = [
       'Build with Flutter and Rust',
     href: '',
     github: 'https://github.com/sabilfaustaa/provis-frontend',
-    texture: '/textures/project/project5.mp4',
+    texture: '/assets/portofolio/digi-sehat/digi-sehat.mp4',
     logo: '/assets/project-logo5.png',
     logoStyle: {
       backgroundColor: '#1C1A43',
@@ -365,7 +365,7 @@ export const myProjects = [
       'Build with ReactJS, TailwindCSS, and ExpressJS',
     href: '',
     github: 'https://github.com/sabilfaustaa/provis-frontend',
-    texture: '/textures/project/project5.mp4',
+    texture: '/assets/portofolio/litik-course/litik.mp4',
     logo: '/assets/project-logo5.png',
     logoStyle: {
       backgroundColor: '#1C1A43',
